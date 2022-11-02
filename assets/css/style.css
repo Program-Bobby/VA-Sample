@@ -4112,6 +4112,13 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   background-size: cover;
   background-repeat: no-repeat;
 }
+.rec {
+  background-position: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+}
 .header-area.header-bg-02 {
   background-color: #000;
   background-position: center;
