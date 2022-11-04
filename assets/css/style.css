@@ -4116,9 +4116,16 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   background-position: left;
   background-size: cover;
   background-repeat: no-repeat;
-}
+  padding-left: 30px;
 
 }
+.phone-booking{
+  position: relative;
+  top: 380px;
+  left: -310px;
+}
+
+
 .header-area.header-bg-02 {
   background-color: #000;
   background-position: center;
